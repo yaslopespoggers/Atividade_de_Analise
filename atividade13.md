@@ -1,14 +1,15 @@
-# Projeto de Markdown
+# Projeto utilizando Markdown
 
-**O site contará com uma explicação de fatos e acontecimentos em cada album da cantora Taylor Swift, com informações detalhadas e atualizadas para cada uma de suas diferentes 'eras'.**  
+**Meu site apresentará a possibilidade de exibir informações e imagens sobre o mangá/anime JoJo's Bizarre Adventure. Com a linguagem de sintaxe Markdown sendo utilizada para criar e desenvolver.**  
 
-*Site desenvolvido por: Yasmin da Rocha Lopes*  
+*Site desenvolvido por: Gabriel Amaral Vons Taborda Ribas*  
 
-### Funções do Site
+### Lista de Funções
 
-* O site irá apresentar um link para uma página de cada era.
-* O site irá apresentar um link externo para outras páginas relevantes ao assunto, como para vendas da artista.
-* O site contará com diversas imagens da carreira da Taylor, e de seus albuns.
+* Apresentará imagens da obra.
+* Apresentará no mínimo 3 páginas alternativas contando com a principal.
+* Apresentará um link de navegação para as páginas mencionadas acima.
+* Apresentará um botão para mudar a cor do fundo.
 
   # Primeira Edição do Arquivo
 **Essa é só uma edição de teste comentada na atividade de número 15, a partir disto, realizarei mais atualizações.**
