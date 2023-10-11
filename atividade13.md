@@ -11,4 +11,4 @@
 * O site contará com diversas imagens da carreira da Taylor, e de seus albuns.
 
   # Primeira Edição do Arquivo
-  **Essa é só uma edição de teste comentada na atividade de número 15, a partir disto, realizarei mais atualizações.
+**Essa é só uma edição de teste comentada na atividade de número 15, a partir disto, realizarei mais atualizações.**
