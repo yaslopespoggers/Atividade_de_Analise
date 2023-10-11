@@ -9,3 +9,6 @@
 * O site irá apresentar um link para uma página de cada era.
 * O site irá apresentar um link externo para outras páginas relevantes ao assunto, como para vendas da artista.
 * O site contará com diversas imagens da carreira da Taylor, e de seus albuns.
+
+  # Primeira Edição do Arquivo
+  **Essa é só uma edição de teste comentada na atividade de número 15, a partir disto, realizarei mais atualizações.
