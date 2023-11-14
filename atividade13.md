@@ -13,3 +13,5 @@
 
   # Primeira Edição do Arquivo
 **Essa é só uma edição de teste comentada na atividade de número 15, a partir disto, realizarei mais atualizações.**
+
+Linha adicionada por yaslopespoggers de acordo com a atividade 17 (14/11).
